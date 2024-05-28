@@ -69,3 +69,4 @@ Performance comparison with the state-of-the-art approach ([BAM](https://github.
 This repo is mainly built based on [PFENet](https://github.com/dvlab-research/PFENet), and [BAM](https://github.com/chunbolang/BAM). Thanks for their great work!
 
 ````
+This paper is currently being reviewed by the IEEE Transactions on Artificial Intelligence journal
